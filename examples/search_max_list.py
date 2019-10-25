@@ -1,5 +1,5 @@
-from genetic_selector import GeneticSelector
-import score_provider
+from genetic_selection.genetic_selector import GeneticSelector
+from genetic_selection import score_provider
 import numpy as np
 
 class ListScoreProvider(score_provider.ScoreProvider):

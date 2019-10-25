@@ -1,7 +1,7 @@
 import numpy as np
 import unittest
 import random
-from selector import GeneticSelector
+from genetic_selection.genetic_selector import GeneticSelector
 
 class TestGeneticSelector(unittest.TestCase):
 
