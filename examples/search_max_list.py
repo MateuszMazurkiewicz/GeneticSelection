@@ -1,3 +1,5 @@
+import sys, os
+sys.path.insert(0, os.path.abspath('..'))
 from genetic_selection.genetic_selector import GeneticSelector
 from genetic_selection import score_provider
 import numpy as np
