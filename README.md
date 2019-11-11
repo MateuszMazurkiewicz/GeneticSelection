@@ -1,5 +1,5 @@
 # GeneticSelection
-Use of genetic algorithm for feature selection
+Application of genetic algorithm for feature selection problem.
 
 GeneticSelector - genetic_selection/genetic_selector.py, uses evolutionary methods (tournamemnt selection, crossover, mutation, elite) to select k from 0..n values based on provided fitness function (user has to implement class inheriting from ScoreProvider - genetic_selection/score_provider.py). 
 
