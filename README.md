@@ -7,4 +7,4 @@ To visualize progress of genetic algorithm it is necessary to save logs to csv f
 
 Algorithm can be applied for example to find best k features for building Machine Learning model.
 
-Check 'examples' folder to see how to use.
+Check "examples" folder to see how to use.
